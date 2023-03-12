@@ -10,13 +10,40 @@
 - [secondLargestNumber.js](./numbers/secondLargestNumber/secondLargestNumber.js)
 - [sum.js](./numbers/sum/sum.js)
 
+## Problems with object types
+
+- [readingFiles-classicPromise.js](./objects/readingFiles-classicPromise/readingFiles-classicPromise.js)
+- [readingFiles-modernPromise.js](./objects/readingFiles-modernPromise/readingFiles-modernPromise.js)
+- [exponentialBackoff.js](./objects/exponentialBackoff/exponentialBackoff.js)
+
+## Other Langugages
+
+### C
+
+- [helloWorld.c](./other-langs/C/HelloWorld/helloWorld.c)
+
+### C#
+
+- [helloWorld.cs](./other-langs/CS/HelloWorld/Program.cs)
+
+### C++
+
+- [helloWorld.cpp](./other-langs/C++/HelloWorld/helloWorld.cpp)
+
+### Go
+
+- [helloWorld.go](./other-langs/Go/HelloWorld/helloWorld.go)
+
+### Java
+
+- [helloWorld.java](./other-langs/Java/HelloWorld/helloWorld.java)
+
+### Rust
+
+- [helloWorld.rs](./other-langs/Rust/HelloWorld/helloWorld.rs)
+
 ## Problems with string types
 
 - [countVowels.js](./strings/countVowels/countVowels.js)
 - [palindrome.js](./strings/palindrome/palindrome.js)
 - [reverseString.js](./strings/reverseString/reverseString.js)
-
-## Problems with object types
-
-- [readingFiles-classicPromise.js](./objects/readingFiles-classicPromise/readingFiles-classicPromise.js)
-- [readingFiles-modernPromise.js](./objects/readingFiles-modernPromise/readingFiles-modernPromise.js)
