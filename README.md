@@ -10,6 +10,12 @@
 - [secondLargestNumber.js](./numbers/secondLargestNumber/secondLargestNumber.js)
 - [sum.js](./numbers/sum/sum.js)
 
+## Problems with string types
+
+- [countVowels.js](./strings/countVowels/countVowels.js)
+- [palindrome.js](./strings/palindrome/palindrome.js)
+- [reverseString.js](./strings/reverseString/reverseString.js)
+
 ## Problems with object types
 
 - [readingFiles-classicPromise.js](./objects/readingFiles-classicPromise/readingFiles-classicPromise.js)
@@ -22,28 +28,25 @@
 
 - [helloWorld.c](./other-langs/C/HelloWorld/helloWorld.c)
 
+### C++
+
+- [helloWorld.cpp](./other-langs/C++/HelloWorld/helloWorld.cpp)
+- [CandleShop.cpp](./other-langs/C++/CandleShop/CandleShop.cpp)
+
 ### C#
 
 - [helloWorld.cs](./other-langs/CS/HelloWorld/Program.cs)
 
-### C++
-
-- [helloWorld.cpp](./other-langs/C++/HelloWorld/helloWorld.cpp)
-
 ### Go
 
 - [helloWorld.go](./other-langs/Go/HelloWorld/helloWorld.go)
+- [checkEvenOdd.go](./other-langs/Go/CheckEvenOdd/checkEvenOdd.go)
 
 ### Java
 
 - [helloWorld.java](./other-langs/Java/HelloWorld/helloWorld.java)
+- [CandleShop.go](./other-langs/Java/CandleShop/CandleShop.java)
 
 ### Rust
 
 - [helloWorld.rs](./other-langs/Rust/HelloWorld/helloWorld.rs)
-
-## Problems with string types
-
-- [countVowels.js](./strings/countVowels/countVowels.js)
-- [palindrome.js](./strings/palindrome/palindrome.js)
-- [reverseString.js](./strings/reverseString/reverseString.js)
