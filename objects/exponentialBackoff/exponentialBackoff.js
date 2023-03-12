@@ -7,10 +7,8 @@ async function main() {
   // const responses = [];
   for (let i = 0; i < 100; i++) {
     const response = await callWithRetry(async () => await axios.get(url));
-    // responses.push(response);
     console.log({ response });
   }
-  // console.table({ responses });
 }
 
 async function callWithRetry(fn, count = 1) {
