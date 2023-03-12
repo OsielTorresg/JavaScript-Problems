@@ -27,6 +27,7 @@
 ### C
 
 - [helloWorld.c](./other-langs/C/HelloWorld/helloWorld.c)
+- [Ascii.c](./other-langs/C/ASCII/ascii.c)
 
 ### C++
 
@@ -36,6 +37,7 @@
 ### C#
 
 - [helloWorld.cs](./other-langs/CS/HelloWorld/Program.cs)
+- [Ascii.cs](./other-langs/CS/ASCII/Ascii.cs)
 
 ### Go
 
