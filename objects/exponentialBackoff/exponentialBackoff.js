@@ -4,7 +4,6 @@ main();
 
 async function main() {
   const url = "http://www.boredapi.com/api/activity/";
-  // const responses = [];
   for (let i = 0; i < 100; i++) {
     const response = await callWithRetry(async () => await axios.get(url));
     console.log({ response });
