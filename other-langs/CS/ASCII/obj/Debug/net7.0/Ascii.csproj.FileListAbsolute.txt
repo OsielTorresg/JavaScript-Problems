@@ -1,0 +1,15 @@
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/bin/Debug/net7.0/Ascii
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/bin/Debug/net7.0/Ascii.deps.json
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/bin/Debug/net7.0/Ascii.runtimeconfig.json
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/bin/Debug/net7.0/Ascii.dll
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/bin/Debug/net7.0/Ascii.pdb
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.csproj.AssemblyReference.cache
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.AssemblyInfoInputs.cache
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.AssemblyInfo.cs
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.csproj.CoreCompileInputs.cache
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.dll
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/refint/Ascii.dll
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.pdb
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/Ascii.genruntimeconfig.cache
+/Users/hnucamendi/R2H/src/github.com/hnucamendi/JavaScript-Problems/other-langs/CS/ASCII/obj/Debug/net7.0/ref/Ascii.dll
